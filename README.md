@@ -1,2 +1,2 @@
 # fuzzy-doodle
-Basic buy or sell signal using MACD andRSI
+Basic buy or sell signal using MACD and RSI
